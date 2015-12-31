@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operation_items">
+        <item>添加新的课程表</item>
+        <item>编辑现有课程表</item>
+    </string-array>
+</resources>

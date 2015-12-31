@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToolbarSlideTabDemo</string>
+    <string name="case_unit">节</string>
+    <string name="class_name">课程</string>
+    <string name="class_location">地点</string>
+    <string name="menu_setting">设置</string>
+    <string name="menu_add">添加</string>
+    <string name="pick_operation">选择操作</string>
+    <string name="add_form_name">取个名字呗</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确认</string>
+    <string name="form_save">保存</string>
+    <string name="list_add_form">添加课程表</string>
+    <string name="manage_forms">管理课程表</string>
+    <string name="version">版本信息</string>
+    <string name="new_form_name">2016第一学期</string>
+</resources>

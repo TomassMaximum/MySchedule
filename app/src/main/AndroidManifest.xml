@@ -1,0 +1,32 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tom.toolbarslidetabdemo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:label="课程表">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".AddClassForm"
+            android:label="添加课程表"/>
+
+        <activity android:name=".FormList"
+            android:label="课程表列表"/>
+
+        <activity android:name=".Settings"
+            android:label="设置"/>
+
+    </application>
+
+</manifest>
